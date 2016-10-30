@@ -1,2 +1,2 @@
-web: web: ./node_modules/.bin/forever -m 5 app.js
+web: web: ./node_modules/.bin/forever start app.js
 
