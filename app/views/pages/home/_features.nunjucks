@@ -1,0 +1,60 @@
+<div class="features section">
+  <div class="container">
+    <h2>Superb features</h2>
+    <div class="row">
+      <div class="features-blok col-sm-6 col-xs-12">
+        <div class="row">
+          <div class="features-blok_icon col-xs-2">
+            <img class="img-fluid" src="../img/star.png" alt="">
+          </div>
+          <div class="features-blok_text col-xs-10">
+            <h3>Brilliant creative design</h3>
+            <p>Ah, well! It means much the same thing, said the Duchess, digging her sharp little chin into
+              Alice's shoulder as she added, and the moral of that is m-dash.</p>
+          </div>
+        </div>
+
+      </div>
+      <div class="features-blok col-sm-6 col-xs-12">
+        <div class="row">
+          <div class="features-blok_icon col-xs-2">
+            <img class="img-fluid" src="../img/cup.png" alt="">
+          </div>
+          <div class="features-blok_text col-xs-10">
+            <h3>Brilliant creative design</h3>
+            <p>Ah, well! It means much the same thing, said the Duchess, digging her sharp little chin into
+              Alice's shoulder as she added, and the moral of that is m-dash.</p>
+          </div>
+        </div>
+
+      </div>
+      <div class="features-blok col-sm-6 col-xs-12">
+        <div class="row">
+          <div class="features-blok_icon col-xs-2">
+            <img class="img-fluid" src="../img/magick.png" alt="">
+          </div>
+          <div class="features-blok_text col-xs-10">
+            <h3>Brilliant creative design</h3>
+            <p>Ah, well! It means much the same thing, said the Duchess, digging her sharp little chin into
+              Alice's shoulder as she added, and the moral of that is m-dash.</p>
+          </div>
+        </div>
+
+      </div>
+      <div class="features-blok col-sm-6 col-xs-12">
+        <div class="row">
+          <div class="features-blok_icon col-xs-2">
+            <img class="img-fluid" src="../img/cloud.png" alt="">
+          </div>
+          <div class="features-blok_text col-xs-10">
+            <h3>Brilliant creative design</h3>
+            <p>Ah, well! It means much the same thing, said the Duchess, digging her sharp little chin into
+              Alice's shoulder as she added, and the moral of that is m-dash.</p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</div>

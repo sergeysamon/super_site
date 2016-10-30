@@ -1,0 +1,134 @@
+<div class="portfolio section section-white">
+  <div class="container">
+    <h2>Steal of the month</h2>
+    <p>That we can tuck in our children at night and know that they are fed and clothed and safe from harm. Our trials
+      and triumphs became at once unique and universal.</p>
+    <div class="portfolio-slider">
+      <div class="portfolio-card">
+        <div class="card-wrapper">
+          <img src="/img/portfolio-card.png" alt="">
+          <div class="card-caption">
+            <div class="row card-caption-top">
+              <div class="col-xs-10">Lindemans Wine</div>
+              <div class="col-xs-2"><i class="fa fa-heart" aria-hidden="true"></i>
+              </div>
+            </div>
+            <div class="row card-caption-bottom">
+              <div class="col-xs-10 ">Art Direction, Web Design</div>
+              <div class="col-xs-2">250</div>
+            </div>
+          </div>
+          <div class="card-hover">
+            <ul>
+              <li><a href="/"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
+              <li><a href="/"><i class="fa fa-search-plus" aria-hidden="true"></i>
+                </a></li>
+              <li><a href="/"><i class="fa fa-link" aria-hidden="true"></i>
+                </a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="portfolio-card">
+        <div class="card-wrapper">
+          <img src="/img/portfolio-card.png" alt="">
+          <div class="card-caption">
+            <div class="row card-caption-top">
+              <div class="col-xs-10">Lindemans Wine</div>
+              <div class="col-xs-2"><i class="fa fa-heart" aria-hidden="true"></i>
+              </div>
+            </div>
+            <div class="row card-caption-bottom">
+              <div class="col-xs-10 ">Art Direction, Web Design</div>
+              <div class="col-xs-2">250</div>
+            </div>
+          </div>
+          <div class="card-hover">
+            <ul>
+              <li><a href="/"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
+              <li><a href="/"><i class="fa fa-search-plus" aria-hidden="true"></i>
+                </a></li>
+              <li><a href="/"><i class="fa fa-link" aria-hidden="true"></i>
+                </a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="portfolio-card">
+        <div class="card-wrapper">
+          <img src="/img/portfolio-card.png" alt="">
+          <div class="card-caption">
+            <div class="row card-caption-top">
+              <div class="col-xs-10">Lindemans Wine</div>
+              <div class="col-xs-2"><i class="fa fa-heart" aria-hidden="true"></i>
+              </div>
+            </div>
+            <div class="row card-caption-bottom">
+              <div class="col-xs-10 ">Art Direction, Web Design</div>
+              <div class="col-xs-2">250</div>
+            </div>
+          </div>
+          <div class="card-hover">
+            <ul>
+              <li><a href="/"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
+              <li><a href="/"><i class="fa fa-search-plus" aria-hidden="true"></i>
+                </a></li>
+              <li><a href="/"><i class="fa fa-link" aria-hidden="true"></i>
+                </a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="portfolio-card">
+        <div class="card-wrapper">
+          <img src="/img/portfolio-card.png" alt="">
+          <div class="card-caption">
+            <div class="row card-caption-top">
+              <div class="col-xs-10">Lindemans Wine</div>
+              <div class="col-xs-2"><i class="fa fa-heart" aria-hidden="true"></i>
+              </div>
+            </div>
+            <div class="row card-caption-bottom">
+              <div class="col-xs-10 ">Art Direction, Web Design</div>
+              <div class="col-xs-2">250</div>
+            </div>
+          </div>
+          <div class="card-hover">
+            <ul>
+              <li><a href="/"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
+              <li><a href="/"><i class="fa fa-search-plus" aria-hidden="true"></i>
+                </a></li>
+              <li><a href="/"><i class="fa fa-link" aria-hidden="true"></i>
+                </a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="portfolio-card">
+        <div class="card-wrapper">
+          <img src="/img/portfolio-card.png" alt="">
+          <div class="card-caption">
+            <div class="row card-caption-top">
+              <div class="col-xs-10">Lindemans Wine</div>
+              <div class="col-xs-2"><i class="fa fa-heart" aria-hidden="true"></i>
+              </div>
+            </div>
+            <div class="row card-caption-bottom">
+              <div class="col-xs-10 ">Art Direction, Web Design</div>
+              <div class="col-xs-2">250</div>
+            </div>
+          </div>
+          <div class="card-hover">
+            <ul>
+              <li><a href="/"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
+              <li><a href="/"><i class="fa fa-search-plus" aria-hidden="true"></i>
+                </a></li>
+              <li><a href="/"><i class="fa fa-link" aria-hidden="true"></i>
+                </a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

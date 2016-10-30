@@ -1,0 +1,146 @@
+@import "../../utils/_variables";
+
+.portfolio {
+  background: url("../../../img/portfolio-bg.png") no-repeat center;
+  background-size: cover;
+}
+
+.portfolio-card {
+  margin: 0 auto;
+
+}
+
+.card-wrapper {
+  position: relative;
+  width: 290px;
+  height: 290px;
+  margin: 0 auto;
+  overflow: hidden;
+  img {
+    transition: transform 1s;
+  }
+  &:hover .card-hover {
+    opacity: 1;
+  }
+  &:hover img {
+    transform: scale(1.2, 1.2);
+  }
+  &:hover .card-caption {
+    opacity: 0;
+  }
+}
+
+.card-caption {
+  transition: opacity 0.4s;
+  padding-top: 15px;
+  text-align: left;
+  height: 70px;
+  background: rgba(0, 0, 0, 0.50);
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.card-caption-top {
+  div {
+    font-weight: 300;
+    font-size: 14px;
+    color: white;
+    &:first-child {
+      padding-left: 20px;
+    }
+    &:last-child {
+      text-align: center;
+      i {
+        color: white;
+      }
+    }
+  }
+
+}
+
+.card-caption-bottom {
+  div {
+    font-weight: 300;
+    font-size: 11px !important;
+    color: $theme-color-default;
+    &:first-child {
+      padding-left: 20px;
+    }
+    &:last-child {
+      text-align: center
+    }
+  }
+}
+
+.card-hover {
+  opacity: 0;
+  transition: opacity 0.4s;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+
+  ul {
+    width: inherit;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  li {
+    margin: 0 0 10px;
+    display: block;
+    height: 40px;
+    width: 40px;
+    background: $theme-color-default;
+    border-radius: 50%;
+    i {
+      text-align: center;
+      line-height: 40px;
+      color: white;
+      font-size: 18px;
+    }
+  }
+}
+
+.portfolio-slider {
+  position: relative;
+}
+
+.slick-prev {
+  right: 47%;
+  background: url("../../../img/arrow.png") no-repeat center;
+  transform: rotate(180deg) ;
+
+}
+
+.slick-next {
+  left: 47%;
+  background: url("../../../img/arrow.png") no-repeat center;
+
+}
+
+.slick-arrow {
+  font-size: 0;
+  background-color: transparent;
+  position: absolute;
+  bottom:-50px;
+  border: none;
+  height: 14px;
+  width: 7px;
+}
+
+@media (max-width: 33.9em) {
+  .slick-prev {
+    right: 43%;
+  }
+
+  .slick-next {
+    left: 43%;
+  }
+}

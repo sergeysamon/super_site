@@ -1,0 +1,29 @@
+//vars bootstrap
+$grid-gutter-width-base: 0px !default;
+
+//vendors
+@import "vendor/font-awesome.css";
+//bootstrap grid
+@import "../../node_modules/bootstrap/scss/bootstrap-reboot";
+@import "../../node_modules/bootstrap/scss/bootstrap-grid";
+@import "../../node_modules/bootstrap/scss/mixins";
+@import "../../node_modules/bootstrap/scss/utilities";
+@import "../../node_modules/bootstrap/scss/carousel";
+@import "../../node_modules/bootstrap/scss/images";
+
+////slick.js
+//@import "vendor/slick";
+
+//imports
+@import 'base/index.scss';
+@import 'utils/index.scss';
+@import 'pages/index.scss';
+@import 'layout/index.scss';
+@import 'components/index.scss';
+@import 'themes/index.scss';
+
+
+
+
+
+

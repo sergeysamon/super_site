@@ -1,0 +1,18 @@
+<header class="header">
+  <div class="container">
+    <div class="logotype col-xs-12 col-md-2 text-xs-center">
+      <img id="logo_btn_menu" src="/img/Logo.png" alt="">
+    </div>
+    <menu class="nav-menu col-xs-12 col-md-10 text-xs-right">
+      <ul>
+        <li class="gold"><a href="/home">Home</a></li>
+        <li class="orange"><a href="/typography">Typography</a></li>
+        <li class="pink"><a href="/blog">Blog</a></li>
+        <li class="magenta"><a href="/pages">Pages</a></li>
+        <li class="violet"><a href="/ecommerse">eCommerse</a></li>
+        <li class="cyan"><a href="/megamenu">Mega Menu</a></li>
+      </ul>
+    </menu>
+  </div>
+
+</header>

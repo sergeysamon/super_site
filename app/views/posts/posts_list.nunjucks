@@ -1,0 +1,24 @@
+{% extends '../layout.nunjucks' %}
+
+{% block title %}
+
+{% endblock %}
+
+{% block content %}
+  <h1>Post list</h1>
+  {% if isAuth %}
+    <form action="" method="post">
+      <input type="text" name="title">
+      <input type="text" name="text">
+      <input type="submit" value="send">
+    </form>
+  {% endif %}
+
+  <ul>
+    {% for item in  posts %}
+      <li><b>{{ item.title }}</b> - {{ item.text }}</li>
+    {% endfor %}
+  </ul>
+
+
+{% endblock %}

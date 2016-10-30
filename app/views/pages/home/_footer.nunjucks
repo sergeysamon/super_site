@@ -1,0 +1,78 @@
+<div class="footer section">
+  <div class="container">
+    <div class="footer-row clearfix">
+      <div class="footer-column">
+        <h3>Get in touch</h3>
+        <ul class="contacts">
+          <li><strong>Address:</strong> 321 Street Name, United Kingdom, London</li>
+          <li><strong>Phone:</strong> +7 998 71 150 30 20</li>
+          <li><strong>Email:</strong>info@ambertheme.com</li>
+        </ul>
+        <div class="footer-map">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7185.622800452097!2d30.47365961860593!3d50.45038900154178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sua!4v1460641800385"
+            width="90%" height="150" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="footer-column">
+        <h3>Latest tweets</h3>
+        <ul class="tweets">
+          <li><p>CMS Masters And Their Best Web Design Tools <a href="">#bestwebdesigntools</a> <a
+                href="">#webdesign</a></p>
+            <p class="time-ago">— about 12 min ago</p>
+          </li>
+          <li><p>WOOCOMMERCE functionality added!!! See Industrial theme become even powerful! -
+              <a href="">bit.ly/industrial-wp</a></p>
+            <p class="time-ago">— about 47 days ago</p>
+          </li>
+          <li><p>CMS Masters And Their Best Web Design Tools <a href="">#bestwebdesigntools</a> <a
+                href="">#webdesign</a></p>
+            <p class="time-ago">— about 12 min ago</p>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h3>Follow us</h3>
+
+        <ul class="follow">
+          <li>
+            <a href="" class="fb"><img src="../img/svg/facebook.svg" alt=""></a>
+            <span>Like us on Facebook</span></li>
+          <li>
+            <a href="" class="tw"><img src="../img/svg/twitter.svg" alt=""></a>
+            <span>Follow us on Twitter</span></li>
+          <li>
+            <a href="" class="yt"><img src="../img/svg/youtube.svg" alt=""></a>
+            <span>Watch videos on YouTube</span></li>
+          <li>
+            <a href="" class="in"><img src="../img/svg/instagram.svg" alt=""></a>
+            <span>Friend us on Instagram</span></li>
+          <li>
+            <a href="" class="pi"><img src="../img/svg/pinterest.svg" alt=""></a>
+            <span>Repin on Pinterest</span></li>
+
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h3>Popular posts</h3>
+
+        <ul class="posts">
+          <li><strong>September, 30</strong>
+            <p>Candy canes dragée pudding. Donut cheesecake I love chocolate icing</p></li>
+          <li><strong>April, 22</strong>
+            <p>Muffin croissant cookie sesame snaps. Ice cream donut cookie gingerbread</p></li>
+          <li><strong>May, 12</strong>
+            <p>Cotton candy muffin tart gummies candy danish liquorice chupa chups tootsie roll</p></li>
+        </ul>
+
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>
+        © 2014 StylemixThemes. All rights reserved. <br>
+        Powered by WordPress.
+      </p>
+      <a href="#">Back to top of page</a>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,45 @@
+<div class="main-nav">
+  <div class="container">
+    <div class="row">
+      <div class="auth col-xs-12 col-sm-9 push-sm-3">
+        {% if isAuth %}
+          <div class="row">
+            <ul class="col-xs-8">
+              <li class="link-account">
+                <a href="/account"><i class="fa fa-user" aria-hidden="true"></i> Account</a>
+              </li>
+              <li class="link-wishlist">
+                <a href="/wishlist"> <i class="fa fa-heart-o" aria-hidden="true"></i>Wishlist</a>
+              </li>
+              <li class="link-logout">
+                <a href="/logout"> <i class="fa fa-sign-out" aria-hidden="true"></i>Log out</a>
+              </li>
+            </ul>
+            <div class="cart col-xs-4 text-xs-right">
+              <a href="/cart">
+                26 items in Cart
+                <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+              </a>
+            </div>
+          </div>
+        {% else %}
+          <ul class="text-xs-center text-sm-right">
+            <li class="link-login">
+              <a href="/login"><i class="fa fa-user" aria-hidden="true"></i>Login</a>
+            </li>
+            <li class="link-signup">
+              <a href="/signup"><i class="fa fa-pencil" aria-hidden="true"></i>Register</a>
+            </li>
+          </ul>
+        {% endif %}
+      </div>
+      <div class="search col-xs-12 col-sm-3 text-xs-center pull-sm-9">
+        <form action="" method="post">
+          <input type="search" placeholder="Search" name="search">
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+

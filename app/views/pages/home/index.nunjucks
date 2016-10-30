@@ -1,0 +1,15 @@
+{% extends '../../layout.nunjucks' %}
+
+{% block content %}
+  {% include './_carousel.nunjucks' %}
+  {% include './_welcome.nunjucks' %}
+  {% include './_portfolio.nunjucks' %}
+  {% include './_textblock.nunjucks' %}
+  {% include './_features.nunjucks' %}
+  {% include './_quote.nunjucks' %}
+  {% include './_blog.nunjucks' %}
+  {% include './_stats.nunjucks' %}
+  {% include './_team.nunjucks' %}
+  {% include './_footer.nunjucks' %}
+
+{% endblock %}

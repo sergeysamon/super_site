@@ -1,0 +1,70 @@
+@import "../utils/variables";
+
+button,
+button:focus,
+button:hover{
+  outline: none;
+
+}
+.btn {
+  outline: none;
+  margin: 0 15px;
+  background: transparent;
+  border: 2px solid $theme-color-default;
+  padding: 14px 13px;
+  color: $theme-color-default;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: background 0.4s, color 0.4s;
+  &:hover {
+    color: white;
+    background: $theme-color-default;
+  }
+}
+
+.btn-inverse {
+  outline: none;
+
+  margin: 0 15px;
+  background: transparent;
+  border: 2px solid $theme-color-default-hover;
+  padding: 14px 13px;
+  color: $theme-color-default-hover;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: background 0.4s, color 0.4s;
+  &:hover {
+    color: white;
+    background: $theme-color-default-hover;
+  }
+}
+
+.btn-white {
+  outline: none;
+
+  margin: 0 15px;
+  background: transparent;
+  border: 2px solid white;
+  padding: 14px 13px;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: background 0.4s, color 0.4s;
+  &:hover {
+    color: $theme-color-default;
+    background: white;
+  }
+}
+
+.btn-white-arrow {
+  outline: none;
+
+  margin: 0 15px;
+  background: transparent;
+  border: 2px solid white;
+  padding: 14px 35px 14px 13px;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  background: url("../../img/arrow_button.png") no-repeat 90% 50%;
+}

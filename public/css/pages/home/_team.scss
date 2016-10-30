@@ -1,0 +1,101 @@
+
+.team-card {
+  margin-bottom: 20px;
+}
+
+.team-person {
+  overflow: hidden;
+  margin: 0 auto;
+  width: 210px;
+  min-width: 210px;
+  height: 380px;
+  border: 1px solid #eeeeee;
+  position: relative;
+  img {
+    width: 100%;
+    max-width: 210px;
+  }
+}
+
+.team-person-info {
+  transition: 0.4s;
+  position: absolute;
+  height: 220px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  z-index: 5;
+  p {
+    padding: 60px 25px 30px;
+    display: block;
+    color: #3b4954;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 24px;
+    transition: 0.4s;
+
+  }
+}
+
+.team-person-text {
+  transition: 0.4s;
+  position: absolute;
+  top: 130px;
+  left: 37px;
+  height: 60px;
+  width: 136px;
+  border: 1px solid #eeeeee;
+  background: #fff;
+  z-index: 6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  h3 {
+    color: $theme-color-default;
+    font-size: 14px;
+    line-height: 16px;
+
+  }
+  span {
+    color: #c4c4c4;
+    font-size: 12px;
+
+  }
+}
+
+.team-person-btn {
+
+  width: 136px;
+  height: 40px;
+
+  position: absolute;
+  bottom: 32px;
+  left: 37px;
+  z-index: 6;
+
+  border: 2px solid $theme-color-default;
+  padding: 14px 13px;
+  background: white;
+  transition: background 0.4s, color 0.4s;
+
+  line-height: 0;
+  color: $theme-color-default;
+  font-weight: bold;
+  text-transform: uppercase;
+
+}
+
+.team-person-btn-focus {
+  color: white;
+  background: $theme-color-default;
+}
+
+.hidden-top {
+  top: -300px !important;
+}
+
+.hidden-bottom {
+  bottom: -300px !important;
+}
