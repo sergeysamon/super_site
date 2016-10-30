@@ -1,8 +1,8 @@
-<div class="welcome section">
+<section class="welcome section">
   <div class="container">
     <h2>Steal of the month</h2>
     <p>That we can tuck in our children at night and know that they are fed and clothed and safe from harm. Our trials
       and triumphs became at once unique and universal.</p>
     <button class="btn">purchase now</button>
   </div>
-</div>
+</section>

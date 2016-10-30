@@ -1,12 +1,12 @@
-<div class="footer section">
+<footer class="footer">
   <div class="container">
-    <div class="footer-row clearfix">
-      <div class="footer-column">
+    <div class="row">
+      <div class="footer-column col-xs-12 col-sm-6 col-lg-3">
         <h3>Get in touch</h3>
         <ul class="contacts">
           <li><strong>Address:</strong> 321 Street Name, United Kingdom, London</li>
           <li><strong>Phone:</strong> +7 998 71 150 30 20</li>
-          <li><strong>Email:</strong>info@ambertheme.com</li>
+          <li><strong>Email:</strong> info@ambertheme.com</li>
         </ul>
         <div class="footer-map">
           <iframe
@@ -14,7 +14,7 @@
             width="90%" height="150" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
       </div>
-      <div class="footer-column">
+      <div class="footer-column col-xs-12 col-sm-6 col-lg-3">
         <h3>Latest tweets</h3>
         <ul class="tweets">
           <li><p>CMS Masters And Their Best Web Design Tools <a href="">#bestwebdesigntools</a> <a
@@ -31,7 +31,7 @@
           </li>
         </ul>
       </div>
-      <div class="footer-column">
+      <div class="footer-column col-xs-12 col-sm-6 col-lg-3">
         <h3>Follow us</h3>
 
         <ul class="follow">
@@ -53,15 +53,15 @@
 
         </ul>
       </div>
-      <div class="footer-column">
+      <div class="footer-column col-xs-12 col-sm-6 col-lg-3">
         <h3>Popular posts</h3>
 
         <ul class="posts">
-          <li><strong>September, 30</strong>
+          <li><span>September, 30</span>
             <p>Candy canes dragée pudding. Donut cheesecake I love chocolate icing</p></li>
-          <li><strong>April, 22</strong>
+          <li><span>April, 22</span>
             <p>Muffin croissant cookie sesame snaps. Ice cream donut cookie gingerbread</p></li>
-          <li><strong>May, 12</strong>
+          <li><span>May, 12</span>
             <p>Cotton candy muffin tart gummies candy danish liquorice chupa chups tootsie roll</p></li>
         </ul>
 
@@ -75,4 +75,4 @@
       <a href="#">Back to top of page</a>
     </div>
   </div>
-</div>
+</footer>

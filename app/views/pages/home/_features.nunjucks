@@ -1,4 +1,4 @@
-<div class="features section">
+<section class="features section">
   <div class="container">
     <h2>Superb features</h2>
     <div class="row">
@@ -57,4 +57,4 @@
 
     </div>
   </div>
-</div>
+</section>

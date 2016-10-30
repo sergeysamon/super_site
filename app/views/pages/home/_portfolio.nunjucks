@@ -1,4 +1,4 @@
-<div class="portfolio section section-white">
+<section class="portfolio section section-white">
   <div class="container">
     <h2>Steal of the month</h2>
     <p>That we can tuck in our children at night and know that they are fed and clothed and safe from harm. Our trials
@@ -131,4 +131,4 @@
       </div>
     </div>
   </div>
-</div>
+</section>

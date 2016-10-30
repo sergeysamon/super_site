@@ -1,4 +1,4 @@
-<div class="blog section">
+<section class="blog section">
   <div class="container">
     <h2>Latest blog posts</h2>
     <div class="row">
@@ -70,4 +70,4 @@
       </div>
     </div>
   </div>
-</div>
+</section>

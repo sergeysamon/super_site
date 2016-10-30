@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @import url(vendor/font-awesome.css);
 /*! normalize.css v4.2.0 | MIT License | github.com/necolas/normalize.css */
 html {
@@ -2987,6 +2988,143 @@ input {
 
 .to-top {
   margin-top: 0; }
+
+.footer {
+  background: #1f2a32;
+  padding: 0; }
+
+.footer-column {
+  text-align: left;
+  padding-top: 50px;
+  padding-left: 20px;
+  border-top: 15px solid #7827a9; }
+  .footer-column:nth-child(4n+2) {
+    border-color: #0c8fcc; }
+  .footer-column:nth-child(4n+3) {
+    border-color: #de1c5c; }
+  .footer-column:nth-child(4n+4) {
+    border-color: #ffae00; }
+  .footer-column h3 {
+    color: white;
+    font-size: 22px;
+    /* Приближение из-за подстановки шрифтов */
+    font-weight: 300;
+    line-height: 35px;
+    /* Приближение из-за подстановки шрифтов */
+    margin-bottom: 40px; }
+
+.contacts {
+  margin-left: 5px; }
+  .contacts li {
+    list-style-image: url("../img/phone.png");
+    font-size: 12px;
+    /* Приближение из-за подстановки шрифтов */
+    font-weight: 300;
+    line-height: 24px;
+    margin: 15px 0;
+    padding: 0 10px;
+    color: #85939f; }
+    .contacts li:first-child {
+      list-style-image: url("../img/flag.png"); }
+    .contacts li:last-child {
+      list-style-image: url("../img/mail.png"); }
+    .contacts li strong {
+      color: white; }
+
+.footer-map {
+  margin-left: -15px; }
+
+.tweets li {
+  list-style-image: url("../img/svg/tweat.svg"); }
+  .tweets li p {
+    font-size: 12px;
+    /* Приближение из-за подстановки шрифтов */
+    font-weight: 300;
+    line-height: 24px;
+    color: #ffffff; }
+    .tweets li p a {
+      color: #02baab;
+      text-decoration: none; }
+    .tweets li p.time-ago {
+      color: #85939f; }
+
+.follow {
+  color: #85939f;
+  margin-top: -10px; }
+  .follow li a {
+    text-align: center;
+    clear: both;
+    float: left;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    margin: 10px 0; }
+    .follow li a.fb {
+      background-color: #3b5998; }
+    .follow li a.tw {
+      background-color: #00a0d1; }
+    .follow li a.yt {
+      background-color: #c4302b; }
+    .follow li a.in {
+      background-color: #825c48; }
+    .follow li a.pi {
+      background-color: #a30834; }
+  .follow li span {
+    font-size: 12px;
+    /* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 70px;
+    color: white;
+    margin-left: 10px; }
+
+.posts {
+  color: #85939f; }
+  .posts li {
+    font-size: 12px;
+    /* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 24px;
+    color: white;
+    padding: 0 5px 30px; }
+    .posts li span {
+      color: #85939f; }
+    .posts li p {
+      color: #02baab; }
+
+.footer-bottom {
+  color: #ffffff;
+  font-size: 12px;
+  /* Приближение из-за подстановки шрифтов */
+  font-weight: 300;
+  line-height: 24px;
+  /* Приближение из-за подстановки шрифтов */
+  text-align: left;
+  clear: both; }
+  .footer-bottom p {
+    color: #85939f;
+    float: left;
+    margin-top: 25px; }
+  .footer-bottom a {
+    display: block;
+    text-decoration: none;
+    border: 2px solid #02baab;
+    float: right;
+    color: white;
+    font-size: 11px;
+    padding: 12px 35px 12px 12px;
+    background: url("../img/arrow-t.png") no-repeat 93% 45%;
+    margin-top: 15px; }
 
 button,
 button:focus,

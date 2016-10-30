@@ -16,6 +16,8 @@
 
 {% block content %}{% endblock %}
 
-{% include 'partials/footer.nunjucks' %}
+{% include 'partials/_footer.nunjucks' %}
+
+{% include 'partials/scripts.nunjucks' %}
 </body>
 </html>

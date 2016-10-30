@@ -10,6 +10,5 @@
   {% include './_blog.nunjucks' %}
   {% include './_stats.nunjucks' %}
   {% include './_team.nunjucks' %}
-  {% include './_footer.nunjucks' %}
 
 {% endblock %}

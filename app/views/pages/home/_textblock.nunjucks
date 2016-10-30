@@ -1,4 +1,4 @@
-<div class="textblock section">
+<section class="textblock section">
   <div class="container">
     <div class="col-xs-9">
       <h3 class="textblock-text">Amber is the most metrolly WordPress theme ever created.</h3>
@@ -7,4 +7,4 @@
       <button class="textblock-button btn-white-arrow">purchase now</button>
     </div>
   </div>
-</div>
+</section>
