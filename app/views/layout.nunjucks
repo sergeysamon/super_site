@@ -11,6 +11,7 @@
   {% endif %}
 </head>
 <body>
+<h1>Test heroku</h1>
 {% include 'partials/header.nunjucks' %}
 {% include 'partials/nav_menu.nunjucks' %}
 
